@@ -1,0 +1,12 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+h3.custom-element {
+    color: white;
+    background-color: $gray-800;
+    
+  }
+
+.col{
+  padding-bottom: 10%;
+}
