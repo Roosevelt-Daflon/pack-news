@@ -19,3 +19,12 @@
  Para rodar o projeto basta clonar o repositório e ter o **node** instalado, após fazer isso basta rodar o comando **`node server.js`**, agora basta acessar **localhost:3000** no navegador para utilizar a aplicação
 
 </h4>
+<h2>Planos futuros</h2>
+<h4>
+
+ 
+
+ - Refazer o front-end como alguma framework como: **react**, **vue**, ou **angular**.
+ - Implementar mais sites de noticias para fazer as buscas.
+ - Implementar filtros na pesquisa.
+</h4>
