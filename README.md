@@ -1,8 +1,8 @@
 <h1 align="center"> Pack News</h1>
 
-<h2>descrição do projeto</h2>
+<h2>Descrição do projeto</h2>
 <h4>Uma aplicação que reúne pesquisas de noticias de diversos sites.</h4>
-<h2>descrição técnica do projeto</h2>
+<h2>Descrição técnica do projeto</h2>
 <h4>Tecnologias usadas<h4>
 <h4>
 
